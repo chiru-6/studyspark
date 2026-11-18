@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 import { analyzeFile, analyzeText } from "./api";
 import { loadSets, newId, saveSets } from "./storage";
 import type { AnalysisResult, StudySet, SummaryLength } from "./types";

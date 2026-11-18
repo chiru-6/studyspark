@@ -1,4 +1,3 @@
-import React from "react";
 
 type P = { size?: number };
 const base = (size = 18) => ({

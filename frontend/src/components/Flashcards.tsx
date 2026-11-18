@@ -1,4 +1,4 @@
-import React, { useCallback, useEffect, useMemo, useState } from "react";
+import { useCallback, useEffect, useMemo, useState } from "react";
 import type { Flashcard } from "../types";
 import { Check, ChevronLeft, ChevronRight, Shuffle } from "./Icons";
 

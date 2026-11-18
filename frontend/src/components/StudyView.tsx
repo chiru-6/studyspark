@@ -1,4 +1,4 @@
-import React, { useMemo, useState } from "react";
+import { useMemo, useState } from "react";
 import type { StudySet } from "../types";
 import { download, flashcardsToCsv } from "../storage";
 import { Flashcards } from "./Flashcards";
