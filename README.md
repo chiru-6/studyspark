@@ -4,7 +4,7 @@
 
 It runs on **classic NLP that I implemented myself** (TextRank, TF-IDF and pattern mining), so it's free to run, fast, and needs **no paid AI API key**.
 
-🔗 **Live demo:** _add your Render URL here after deploying_
+🔗 **Live demo:** https://studyspark-pnnb.onrender.com/ (free tier, so the first load may take ~30s to wake up)
 
 ![CI](https://github.com/chiru-6/studyspark/actions/workflows/ci.yml/badge.svg)
 ![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=flat&logo=python&logoColor=white)
