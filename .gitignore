@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.env
+frontend/node_modules/
+.DS_Store
+# frontend/dist is committed on purpose so the server can run without Node.
